@@ -14,7 +14,7 @@ Below is an example of a generated data sample, illustrating the voxelized repre
 ![Data Sample](teaser.png)
 
 ## Project Structure
-
+```
 /your_project_root/
 │
 ├── generate_data.FCMacro         # Main FreeCAD macro for dataset generation
@@ -40,7 +40,7 @@ Below is an example of a generated data sample, illustrating the voxelized repre
 ├── requirements.txt # Required Python packages for FreeCAD environment
 │
 └── README.md                     # Project documentation
-
+```
 
 ## Getting Started
 
