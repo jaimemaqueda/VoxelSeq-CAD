@@ -15,7 +15,7 @@ Below is an example of a generated data sample, illustrating the voxelized repre
 
 ## Project Structure
 ```
-/your_project_root/
+/VoxelSeq-CAD/
 │
 ├── generate_data.FCMacro         # Main FreeCAD macro for dataset generation
 ├── example_data.FCMacro          # Example FreeCAD macro file for testing
