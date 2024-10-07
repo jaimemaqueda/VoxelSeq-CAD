@@ -37,7 +37,7 @@ Below is an example of a generated data sample, illustrating the voxelized repre
 ├── /notebooks/                   # Jupyter notebooks for data visualization and experiments
 │   └── data_view.ipynb           # Notebook for visualizing voxel data
 |
-├── requirements.txt # Required Python packages for FreeCAD environment
+├── requirements.txt              # Required Python packages for FreeCAD environment
 │
 └── README.md                     # Project documentation
 ```
